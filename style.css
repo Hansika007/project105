@@ -1,0 +1,27 @@
+body
+{
+    color:rgb(255, 55, 88);
+    background-color: rgb(242, 147, 242) ;
+}
+
+.heading
+{
+    color:aliceblue;
+    font-size: 35px;
+    text-align: left;
+}
+
+ #result_object_name , #result_object_accuracy
+{
+    color: orange;
+}
+
+.name_of_object
+{
+    color: aquamarine;
+    background-color: rgb(158, 68, 242);
+    background-size : length = 75% ;
+    text-align: right;
+    margin-left: 15 ;
+    border-radius: 5px;
+}
